@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, Im Amirhosein 👋👨‍💻
+![Banner](https://github.com/amiwrsdti/amiwrsdti/blob/main/Picsart_25-06-25_21-29-30-685.jpg?raw=true)
 
-<!--
-**amiwrsdti/amiwrsdti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+# Skills : 
+![Html](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-html5-48.png?raw=true)
+![Css](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-css-48.png?raw=true)
+![Js](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-js-48.png?raw=true)
+![React](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-react-native-48.png?raw=true)
+![Devops](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-devops-48.png?raw=true)
+![Docker](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-docker-48.png?raw=true)
+![jenkins](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-jenkins-48.png?raw=true)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# State :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiwrsdti&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amiwrsdti&rank_icon=github" />
+</div>
