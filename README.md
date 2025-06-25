@@ -7,6 +7,7 @@ ___
 ![Css](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-css-48.png?raw=true)
 ![Js](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-js-48.png?raw=true)
 ![React](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-react-native-48.png?raw=true)
+![Cs](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-cs-48.png?raw=true)
 ![Devops](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-devops-48.png?raw=true)
 ![Docker](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-docker-48.png?raw=true)
 ![jenkins](https://github.com/amiwrsdti/amiwrsdti/blob/main/icons8-jenkins-48.png?raw=true)
